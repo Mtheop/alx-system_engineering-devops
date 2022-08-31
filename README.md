@@ -1,1 +1,1 @@
-Shell basics for navigation, manipulating files and commands
+Shell basics for manipulating files, commands and man pages
