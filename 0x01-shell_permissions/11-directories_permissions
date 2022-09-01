@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R a+X sites/default/files
+chmod -R 755 
